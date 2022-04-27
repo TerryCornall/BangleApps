@@ -9,6 +9,6 @@
   "screenshots" : [ { "url":"app-icon.js" } ],
   "storage": [
     {"name":"MyTimer.app.js","url":"app.js"},
-    {"name":"MyTimer.img","url":"app-icon.js","evaluate":true}
+    {"name":"MyTimer.img","url":"MyTimer_screenshot.png","evaluate":true}
   ]
 }
