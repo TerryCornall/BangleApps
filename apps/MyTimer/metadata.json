@@ -6,6 +6,7 @@
   "description": "Timer app",
   "tags": "",
   "supports" : ["BANGLEJS2"],
+  "screenshots" : [ { "url":"app-icon.js" } ],
   "storage": [
     {"name":"MyTimer.app.js","url":"app.js"},
     {"name":"MyTimer.img","url":"app-icon.js","evaluate":true}
