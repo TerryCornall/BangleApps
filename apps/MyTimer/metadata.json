@@ -5,6 +5,7 @@
   "version":"0.01",
   "description": "Timer app",
   "tags": "",
+  "supports":"",
   "storage": [
     {"name":"MyTimer.app.js","url":"app.js"},
     {"name":"MyTimer.img","url":"app-icon.js","evaluate":true}
