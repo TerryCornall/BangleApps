@@ -1,0 +1,12 @@
+{ "id": "MyTimer",
+  "name": "My Timer App",
+  "shortName":"My Timer",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "Timer app",
+  "tags": "",
+  "storage": [
+    {"name":"MyTimer.app.js","url":"app.js"},
+    {"name":"MyTimer.img","url":"app-icon.js","evaluate":true}
+  ]
+}
