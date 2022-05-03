@@ -1,4 +1,4 @@
-var counter = 30;
+var counter = 50;
 var counterInterval;
 
 function outOfTime() {
